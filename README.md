@@ -1,5 +1,6 @@
 
 ## House Price Prediction
+This project predicts house prices in Amsterdam using machine learning regression models. It uses property features such as area, number of rooms, and location (longitude & latitude) to estimate prices.
 
 ## Task Objective
 The objective of this task is to predict house prices using machine learning regression models based on property features such as area, number of rooms, and location.
